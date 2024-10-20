@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 file 4 from branch 2
 new line from master 
 new line from b2
-=======
 adding line from b1 branch
->>>>>>> b1
